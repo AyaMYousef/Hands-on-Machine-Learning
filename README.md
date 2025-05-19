@@ -4,50 +4,48 @@
 Comprehensive and hands-on notebooks covering core Machine Learning and Deep Learning topics using **Scikit-Learn**, **Keras**, and **TensorFlow**.
 ### ✅ Contents:
 
-* **🔁 END-TO-END ML PROJECT**
+* **END-TO-END ML PROJECT**
   From raw data to a deployed model, step-by-step.
 
-* **🧩 CLASSIFICATION**
+* **CLASSIFICATION**
   Logistic Regression, k-NN, SGD, and more.
 
-* **⚙️ TRAINING MODELS (with Tricks!)**
+* **TRAINING MODELS (with Tricks!)**
   Regularization, feature scaling, early stopping, etc.
 
-* **💥 SUPPORT VECTOR MACHINES (SVMs)**
+* **SUPPORT VECTOR MACHINES (SVMs)**
   Linear & kernel SVMs with margin visualization.
 
-* **🌳 DECISION TREES**
+* **DECISION TREES**
   Entropy, Gini, pruning, and visual interpretation.
 
-* **🧠 ENSEMBLE LEARNING**
+* **ENSEMBLE LEARNING**
   Random Forests, Gradient Boosting, Voting Classifiers.
 
-* **📉 DIMENSIONALITY REDUCTION**
+* **DIMENSIONALITY REDUCTION**
   PCA, LDA, t-SNE — theory & visualization.
 
-* **🕵️ UNSUPERVISED LEARNING**
+* **UNSUPERVISED LEARNING**
   Clustering: K-Means, DBSCAN, Hierarchical Clustering.
 
 
 
-### 🤖 Deep Learning with TensorFlow & Keras
+### Deep Learning with TensorFlow & Keras
 
-* **📘 INTRODUCTION TO ANN**
+* **INTRODUCTION TO ANN**
   Building your first dense neural networks.
 
-* **📈 TRAINING DEEP NEURAL NETWORKS**
+* **TRAINING DEEP NEURAL NETWORKS**
   Optimizers, initialization, regularization techniques.
 
-* **🛠 CUSTOM MODELS & TRAINING WITH TENSORFLOW**
+* **CUSTOM MODELS & TRAINING WITH TENSORFLOW**
   Using low-level TensorFlow API, custom training loops.
 
-* **🔄 LOADING & PREPROCESSING DATA WITH TF**
+* **LOADING & PREPROCESSING DATA WITH TF**
   tf.data, image pipelines, and performance optimization.
 
-* **🧠 DEEP COMPUTER VISION USING CNNs**
+* **DEEP COMPUTER VISION USING CNNs**
   Convolution layers, pooling, advanced architectures.
-
-
 
 ### 🚀 How to Use
 
