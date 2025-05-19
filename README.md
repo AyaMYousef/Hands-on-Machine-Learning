@@ -28,7 +28,7 @@ Comprehensive and hands-on notebooks covering core Machine Learning and Deep Lea
 * **🕵️ UNSUPERVISED LEARNING**
   Clustering: K-Means, DBSCAN, Hierarchical Clustering.
 
----
+
 
 ### 🤖 Deep Learning with TensorFlow & Keras
 
@@ -47,7 +47,7 @@ Comprehensive and hands-on notebooks covering core Machine Learning and Deep Lea
 * **🧠 DEEP COMPUTER VISION USING CNNs**
   Convolution layers, pooling, advanced architectures.
 
----
+
 
 ### 🚀 How to Use
 
@@ -57,5 +57,3 @@ Comprehensive and hands-on notebooks covering core Machine Learning and Deep Lea
 4. Enjoy learning!
 
 ---
-
-هل تحب أن أساعدك في تنسيق هذا المحتوى داخل ملف `README.md` جاهز للنشر على GitHub؟
